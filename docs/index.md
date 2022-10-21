@@ -1,8 +1,6 @@
 # Awesome Dynamsoft
 
-A list of cool stuff related to Dynamsoft 
-
-## Articles
+Lists of cool stuff related to Dynamsoft 
 
 [Explore projects by tech stacks.](tech-stacks/index.md)
 
