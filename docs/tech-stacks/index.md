@@ -9,6 +9,7 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 | ----------- | ----------- | ----------- |
 | [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples) | Dynamsoft Barcode Reader | Official |
 | [JavaScript](https://github.com/Dynamsoft/label-recognizer-javascript-samples) | Dynamsoft Label Recognizer | Official |
+| [JavaScript](https://github.com/Dynamsoft/document-normalizer-javascript-samples) | Dynamsoft Document Normalizer | Official |
 | [JavaScript](https://github.com/Dynamsoft/camera-enhancer-javascript-samples) | Dynamsoft Camera Enhancer | Official |
 | [JavaScript](https://github.com/Dynamsoft/Dynamic-Web-TWAIN) | Dynamic Web TWAIN | Official |
 
@@ -26,6 +27,8 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 | [Java](https://github.com/Dynamsoft/label-recognizer-java-samples) | Dynamsoft Label Recognizer | Official |
 | [C/C++](https://github.com/Dynamsoft/label-recognizer-c-cpp-samples) | Dynamsoft Label Recognizer | Official |
 | [Node.js](https://www.npmjs.com/package/mrz4nodejs) | Dynamsoft Label Recognizer | Community |
+| [C/C++](https://github.com/Dynamsoft/document-normalizer-c-cpp-samples) | Dynamsoft Document Normalizer | Official |
+
 
 ## Mobile Native
 
@@ -33,6 +36,7 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 | ----------- | ----------- | ----------- |
 | [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples) | Dynamsoft Barcode Reader | Official |
 | [Android & iOS](https://github.com/Dynamsoft/label-recognizer-mobile-samples) | Dynamsoft Label Recognizer | Official |
+| [Android & iOS](https://github.com/Dynamsoft/document-normalizer-mobile-samples) | Dynamsoft Document Normalizer | Official |
 | [Android & iOS](https://github.com/Dynamsoft/camera-enhancer-mobile-samples) | Dynamsoft Camera Enhancer | Official |
 
 
@@ -79,6 +83,7 @@ Mainly samples with blogs.
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
 | [Dynamsoft Capture Vision](https://www.nuget.org/packages/Dynamsoft.CaptureVision.Xamarin.Forms)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Official |
+| [Dynamsoft Document Normalizer](https://github.com/Dynamsoft/document-normalizer-xamarin-forms-samples)  | Dynamsoft Document Normalizer | Official |
 
 ### Flutter
 
