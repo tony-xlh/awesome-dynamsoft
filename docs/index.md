@@ -4,5 +4,5 @@ A list of cool stuff related to Dynamsoft
 
 ## Articles
 
-[Explore articles on codepool.](codepool/index.md)
+[Explore projects by tech stacks.](tech-stacks/index.md)
 
