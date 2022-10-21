@@ -10,6 +10,8 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 | [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples) | Dynamsoft Barcode Reader | Official |
 | [JavaScript](https://github.com/Dynamsoft/label-recognizer-javascript-samples) | Dynamsoft Label Recognizer | Official |
 | [JavaScript](https://github.com/Dynamsoft/camera-enhancer-javascript-samples) | Dynamsoft Camera Enhancer | Official |
+| [JavaScript](https://github.com/Dynamsoft/Dynamic-Web-TWAIN) | Dynamic Web TWAIN | Official |
+
 
 ## Desktop
 
