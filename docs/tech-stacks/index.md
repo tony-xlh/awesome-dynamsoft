@@ -87,10 +87,10 @@ Mainly samples with blogs.
 
 ### Flutter
 
-| Project | Product | Type |
-| ----------- | ----------- | ----------- |
-| [dynamsoft_capture_vision](https://pub.dev/packages/dynamsoft_capture_vision_flutter)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Official |
-| [Barcode SDK](https://pub.dev/packages/flutter_barcode_sdk)  | Dynamsoft Barcode Reader | Community |
+| Project | Product | Platforms | Type |
+| ----------- | ----------- | ----------- | ----------- |
+| [dynamsoft_capture_vision](https://pub.dev/packages/dynamsoft_capture_vision_flutter)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Android, iOS | Official |
+| [Barcode SDK](https://pub.dev/packages/flutter_barcode_sdk)  | Dynamsoft Barcode Reader | Android, iOS, Windows, Linux, macOS, Web | Community |
 
 ### B4X
 
