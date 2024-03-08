@@ -75,5 +75,5 @@ Plugins:
 
 |    Name     |   Product    |   Note   |
 | ----------- | ------------ | -------- |
-| [APEX-Dynamic-Web-TWAIN](hhttps://github.com/tony-xlh/APEX-Dynamic-Web-TWAIN) | Dynamic Web TWAIN | Document Scanning |
+| [APEX-Dynamic-Web-TWAIN](https://github.com/tony-xlh/APEX-Dynamic-Web-TWAIN) | Dynamic Web TWAIN | Document Scanning |
 | [APEX-Dynamsoft-Barcode-Reader](https://github.com/tony-xlh/APEX-Dynamsoft-Barcode-Reader) | Dynamsoft Barcode Reader | Barcode Scanning |
