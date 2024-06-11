@@ -92,8 +92,8 @@ Mainly samples with blogs.
 | Project | Product | Platforms | Type |
 | ----------- | ----------- | ----------- |-------- |
 | [BarcodeQRCodeSDK](https://www.nuget.org/packages/BarcodeQRCodeSDK) | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS | Community |
-| [DocumentScannerSDK](https://www.nuget.org/packages/DocumentScannerSDK) | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, macOS | Community |
-| [MRZSDK](https://www.nuget.org/packages/MrzScannerSDK) | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, macOS | Community |
+| [DocumentScannerSDK](https://www.nuget.org/packages/DocumentScannerSDK) | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux | Community |
+| [MRZSDK](https://www.nuget.org/packages/MrzScannerSDK) | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux | Community |
 
 ### Flutter
 
@@ -101,8 +101,8 @@ Mainly samples with blogs.
 | ----------- | ----------- | ----------- | ----------- |
 | [dynamsoft_capture_vision](https://pub.dev/packages/dynamsoft_capture_vision_flutter)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Android, iOS | Official |
 | [Barcode SDK](https://pub.dev/packages/flutter_barcode_sdk)  | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS, Web | Community |
-| [OCR SDK](https://pub.dev/packages/flutter_ocr_sdk)  | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, macOS, Web | Community |
-| [Document Scan SDK](https://pub.dev/packages/flutter_document_scan_sdk)  | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, macOS, Web | Community |
+| [OCR SDK](https://pub.dev/packages/flutter_ocr_sdk)  | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, Web | Community |
+| [Document Scan SDK](https://pub.dev/packages/flutter_document_scan_sdk)  | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, Web | Community |
 
 ### B4X
 
