@@ -55,7 +55,7 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 | ----------- | ----------- | ----------- |
 | [capacitor-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community |
 | [capacitor-plugin-dynamsoft-label-recognizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer 2 | Community |
-| [capacitor-plugin-dynamsoft-document-normalizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-document-normalizer)  | Dynamsoft Document Normalizer 1 | Community |
+| [capacitor-plugin-dynamsoft-document-normalizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-document-normalizer)  | Dynamsoft Document Normalizer 2 | Community |
 
 ### Ionic
 
