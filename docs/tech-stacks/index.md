@@ -47,14 +47,15 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
 | [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-cordova)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Official |
-| [cordova-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/cordova-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer  | Community |
+| [cordova-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/cordova-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community |
 
 ### Capacitor
 
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
-| [capacitor-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer  | Community |
-| [capacitor-plugin-dynamsoft-label-recognizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer  | Community |
+| [capacitor-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community |
+| [capacitor-plugin-dynamsoft-label-recognizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer 2 | Community |
+| [capacitor-plugin-dynamsoft-document-normalizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-document-normalizer)  | Dynamsoft Document Normalizer 1 | Community |
 
 ### Ionic
 
@@ -62,11 +63,11 @@ Mainly samples with blogs.
 
 | Title | Language | Backend | Product | Type |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Ionic Angular QR Code Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-cordova-qr-code-scanner.html) | Angular | Cordova | Dynamsoft Barcode Reader | Community | 
-| [Writing a Wrapper to use Cordova Plugins in an Ionic App](https://www.dynamsoft.com/codepool/cordova-plugin-ionic-wrapper.html) | Typescript | Cordova | Dynamsoft Barcode Reader | Community | 
-| [Ionic React QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-react-qr-code-scanner.html) | React | Capacitor | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Community | 
-| [Ionic Vue QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-vue-qr-code-scanner.html) | Vue | Capacitor | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Community | 
-| [How to Build an Ionic Angular MRZ Passport Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-mrz-passport-scanner-cordova.html) | Angular | Cordova | Dynamsoft Label Recognizer + Dynamsoft Camera Enhancer | Community | 
+| [Ionic Angular QR Code Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-cordova-qr-code-scanner.html) | Angular | Cordova | Dynamsoft Barcode Reader 9 | Community | 
+| [Writing a Wrapper to use Cordova Plugins in an Ionic App](https://www.dynamsoft.com/codepool/cordova-plugin-ionic-wrapper.html) | Typescript | Cordova | Dynamsoft Barcode Reader 9 | Community | 
+| [Ionic React QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-react-qr-code-scanner.html) | React | Capacitor | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community | 
+| [Ionic Vue QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-vue-qr-code-scanner.html) | Vue | Capacitor | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community | 
+| [How to Build an Ionic Angular MRZ Passport Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-mrz-passport-scanner-cordova.html) | Angular | Cordova | Dynamsoft Label Recognizer JavaScript 2 | Community | 
 
 
 
@@ -74,23 +75,33 @@ Mainly samples with blogs.
 
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
-| [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-react-native)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Official |
-| [vision-camera-dynamsoft-barcode-reader](https://www.npmjs.com/package/vision-camera-dynamsoft-barcode-reader) | Dynamsoft Barcode Reader | Community |
-| [vision-camera-dynamsoft-label-recognizer](https://www.npmjs.com/package/vision-camera-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer | Community |
+| [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-react-native)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Official |
+| [vision-camera-dynamsoft-barcode-reader](https://www.npmjs.com/package/vision-camera-dynamsoft-barcode-reader) | Dynamsoft Barcode Reader 9 | Community |
+| [vision-camera-dynamsoft-label-recognizer](https://www.npmjs.com/package/vision-camera-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer 2 | Community |
+| [vision-camera-dynamsoft-document-normalizer](https://www.npmjs.com/package/vision-camera-dynamsoft-document-normalizer)  | Dynamsoft Document Normalizer 2 | Community |
 
 ### Xamarin
 
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
-| [Dynamsoft Capture Vision](https://www.nuget.org/packages/Dynamsoft.CaptureVision.Xamarin.Forms)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Official |
-| [Dynamsoft Document Normalizer](https://github.com/Dynamsoft/document-normalizer-xamarin-forms-samples)  | Dynamsoft Document Normalizer | Official |
+| [Dynamsoft Capture Vision](https://www.nuget.org/packages/Dynamsoft.CaptureVision.Xamarin.Forms)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Official |
+| [Dynamsoft Document Normalizer](https://www.nuget.org/packages/Dynamsoft.DocumentNormalizer.Xamarin.Forms)  | Dynamsoft Document Normalizer | Official |
+
+### MAUI
+
+| Project | Product | Platforms | Type |
+| [BarcodeQRCodeSDK](https://www.nuget.org/packages/BarcodeQRCodeSDK) | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS | Community |
+| [DocumentScannerSDK](https://www.nuget.org/packages/DocumentScannerSDK) | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, macOS | Community |
+| [MRZSDK](https://www.nuget.org/packages/MrzScannerSDK) | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, macOS | Community |
 
 ### Flutter
 
 | Project | Product | Platforms | Type |
 | ----------- | ----------- | ----------- | ----------- |
 | [dynamsoft_capture_vision](https://pub.dev/packages/dynamsoft_capture_vision_flutter)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Android, iOS | Official |
-| [Barcode SDK](https://pub.dev/packages/flutter_barcode_sdk)  | Dynamsoft Barcode Reader | Android, iOS, Windows, Linux, macOS, Web | Community |
+| [Barcode SDK](https://pub.dev/packages/flutter_barcode_sdk)  | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS, Web | Community |
+| [OCR SDK](https://pub.dev/packages/flutter_ocr_sdk)  | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, macOS, Web | Community |
+| [Document Scan SDK](https://pub.dev/packages/flutter_document_scan_sdk)  | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, macOS, Web | Community |
 
 ### B4X
 
