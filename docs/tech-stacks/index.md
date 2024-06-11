@@ -90,6 +90,7 @@ Mainly samples with blogs.
 ### MAUI
 
 | Project | Product | Platforms | Type |
+| ----------- | ----------- | ----------- |-------- |
 | [BarcodeQRCodeSDK](https://www.nuget.org/packages/BarcodeQRCodeSDK) | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS | Community |
 | [DocumentScannerSDK](https://www.nuget.org/packages/DocumentScannerSDK) | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, macOS | Community |
 | [MRZSDK](https://www.nuget.org/packages/MrzScannerSDK) | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, macOS | Community |
