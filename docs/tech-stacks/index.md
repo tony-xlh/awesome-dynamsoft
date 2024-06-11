@@ -46,7 +46,7 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
-| [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-cordova)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Official |
+| [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-cordova)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Official |
 | [cordova-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/cordova-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community |
 
 ### Capacitor
@@ -85,7 +85,7 @@ Mainly samples with blogs.
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
 | [Dynamsoft Capture Vision](https://www.nuget.org/packages/Dynamsoft.CaptureVision.Xamarin.Forms)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Official |
-| [Dynamsoft Document Normalizer](https://www.nuget.org/packages/Dynamsoft.DocumentNormalizer.Xamarin.Forms)  | Dynamsoft Document Normalizer | Official |
+| [Dynamsoft Document Normalizer](https://www.nuget.org/packages/Dynamsoft.DocumentNormalizer.Xamarin.Forms)  | Dynamsoft Document Normalizer 1 | Official |
 
 ### MAUI
 
@@ -99,7 +99,7 @@ Mainly samples with blogs.
 
 | Project | Product | Platforms | Type |
 | ----------- | ----------- | ----------- | ----------- |
-| [dynamsoft_capture_vision](https://pub.dev/packages/dynamsoft_capture_vision_flutter)  | Dynamsoft Barcode Reader + Dynamsoft Camera Enhancer | Android, iOS | Official |
+| [dynamsoft_capture_vision](https://pub.dev/packages/dynamsoft_capture_vision_flutter)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Android, iOS | Official |
 | [Barcode SDK](https://pub.dev/packages/flutter_barcode_sdk)  | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS, Web | Community |
 | [OCR SDK](https://pub.dev/packages/flutter_ocr_sdk)  | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, macOS, Web | Community |
 | [Document Scan SDK](https://pub.dev/packages/flutter_document_scan_sdk)  | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, macOS, Web | Community |
@@ -108,5 +108,5 @@ Mainly samples with blogs.
 
 | Platform | Product | Type |
 | ----------- | ----------- | ----------- |
-| [Desktop + Mobile](https://www.b4x.com/android/forum/threads/b4x-b4xpages-dynamsoft-barcode-reader-cross-platform-barcode-qr-code-scanning-library.130728/) | Dynamsoft Barcode Reader | Community |
-| [Browser](https://www.b4x.com/android/forum/threads/banano-dynamsoft-barcode-reader.130839) | Dynamsoft Barcode Reader | Community |
+| [Desktop + Mobile](https://www.b4x.com/android/forum/threads/b4x-b4xpages-dynamsoft-barcode-reader-cross-platform-barcode-qr-code-scanning-library.130728/) | Dynamsoft Barcode Reader 9 | Community |
+| [Browser](https://www.b4x.com/android/forum/threads/banano-dynamsoft-barcode-reader.130839) | Dynamsoft Barcode Reader 9 | Community |
