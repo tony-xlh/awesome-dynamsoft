@@ -53,7 +53,7 @@ Some are maintained by the official Dynamsoft team and some are maintained by th
 
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
-| [capacitor-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community |
+| [capacitor-plugin-dynamsoft-barcode-reader](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 10 | Community |
 | [capacitor-plugin-dynamsoft-label-recognizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer 2 | Community |
 | [capacitor-plugin-dynamsoft-document-normalizer](https://www.npmjs.com/package/capacitor-plugin-dynamsoft-document-normalizer)  | Dynamsoft Document Normalizer 2 | Community |
 
@@ -75,9 +75,9 @@ Mainly samples with blogs.
 
 | Project | Product | Type |
 | ----------- | ----------- | ----------- |
-| [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-react-native)  | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Official |
+| [Dynamsoft Capture Vision](https://www.npmjs.com/package/dynamsoft-capture-vision-react-native)  | Dynamsoft Capture Vision | Official |
 | [vision-camera-dynamsoft-barcode-reader](https://www.npmjs.com/package/vision-camera-dynamsoft-barcode-reader) | Dynamsoft Barcode Reader 9 | Community |
-| [vision-camera-dynamsoft-label-recognizer](https://www.npmjs.com/package/vision-camera-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer 2 | Community |
+| [vision-camera-dynamsoft-label-recognizer](https://www.npmjs.com/package/vision-camera-dynamsoft-label-recognizer)  | Dynamsoft Label Recognizer 3 | Community |
 | [vision-camera-dynamsoft-document-normalizer](https://www.npmjs.com/package/vision-camera-dynamsoft-document-normalizer)  | Dynamsoft Document Normalizer 2 | Community |
 
 ### Xamarin
@@ -91,7 +91,7 @@ Mainly samples with blogs.
 
 | Project | Product | Platforms | Type |
 | ----------- | ----------- | ----------- |-------- |
-| [Dynamsoft Capture Vision](https://github.com/Dynamsoft/capture-vision-maui-samples) | Dynamsoft Barcode Reader 10 | Android, iOS | Official |
+| [Dynamsoft Capture Vision](https://github.com/Dynamsoft/capture-vision-maui-samples) | Dynamsoft Capture Vision | Android, iOS | Official |
 | [BarcodeQRCodeSDK](https://www.nuget.org/packages/BarcodeQRCodeSDK) | Dynamsoft Barcode Reader 9 | Android, iOS, Windows, Linux, macOS | Community |
 | [DocumentScannerSDK](https://www.nuget.org/packages/DocumentScannerSDK) | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux | Community |
 | [MRZSDK](https://www.nuget.org/packages/MrzScannerSDK) | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux | Community |
