@@ -63,11 +63,11 @@ Mainly samples with blogs.
 
 | Title | Language | Backend | Product | Type |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Ionic Angular QR Code Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-cordova-qr-code-scanner.html) | Angular | Cordova | Dynamsoft Barcode Reader 9 | Community | 
-| [Writing a Wrapper to use Cordova Plugins in an Ionic App](https://www.dynamsoft.com/codepool/cordova-plugin-ionic-wrapper.html) | Typescript | Cordova | Dynamsoft Barcode Reader 9 | Community | 
-| [Ionic React QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-react-qr-code-scanner.html) | React | Capacitor | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community | 
-| [Ionic Vue QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-vue-qr-code-scanner.html) | Vue | Capacitor | Dynamsoft Barcode Reader 9 + Dynamsoft Camera Enhancer 2 | Community | 
-| [How to Build an Ionic Angular MRZ Passport Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-mrz-passport-scanner-cordova.html) | Angular | Cordova | Dynamsoft Label Recognizer JavaScript 2 | Community | 
+| [Ionic Angular QR Code Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-cordova-qr-code-scanner.html) | Angular | Cordova | Dynamsoft Barcode Reader | Community | 
+| [Writing a Wrapper to use Cordova Plugins in an Ionic App](https://www.dynamsoft.com/codepool/cordova-plugin-ionic-wrapper.html) | Typescript | Cordova | Dynamsoft Barcode Reader | Community | 
+| [Ionic React QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-react-qr-code-scanner.html) | React | Capacitor | Dynamsoft Barcode Reader | Community | 
+| [Ionic Vue QR Code Scanner with Capacitor](https://www.dynamsoft.com/codepool/ionic-vue-qr-code-scanner.html) | Vue | Capacitor | Dynamsoft Barcode Reader | Community | 
+| [How to Build an Ionic Angular MRZ Passport Scanner with Cordova](https://www.dynamsoft.com/codepool/ionic-angular-mrz-passport-scanner-cordova.html) | Angular | Cordova | Dynamsoft Label Recognizer | Community | 
 
 
 
