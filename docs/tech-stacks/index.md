@@ -105,6 +105,20 @@ Mainly samples with blogs.
 | [OCR SDK](https://pub.dev/packages/flutter_ocr_sdk)  | Dynamsoft Label Recognizer 2 | Android, iOS, Windows, Linux, Web | Community |
 | [Document Scan SDK](https://pub.dev/packages/flutter_document_scan_sdk)  | Dynamsoft Document Normalizer 1 | Android, iOS, Windows, Linux, Web | Community |
 
+### Compose Multiplatform
+
+| Project | Product | Type |
+| ----------- | ----------- | ----------- |
+| [Dynamsoft Barcode Reader](https://github.com/tony-xlh/Compose-Multiplatform-QR-Code-Scanner)  | Dynamsoft Barcode Reader 10 | Community |
+
+
+### NativeScript
+
+| Project | Product | Type |
+| ----------- | ----------- | ----------- |
+| [Dynamsoft Barcode Reader](https://www.npmjs.com/package/nativescript-dynamsoft-barcode-reader)  | Dynamsoft Barcode Reader 9 | Community |
+
+
 ### B4X
 
 | Platform | Product | Type |
